@@ -1,0 +1,12 @@
+name: stock
+title: stock
+username:
+account: zixuan0738
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3395710
+bundleId: 3987669
+url: https://zixuan0738.shinyapps.io/stock/
+when: 1607963270.65513
+asMultiple: FALSE
+asStatic: FALSE
