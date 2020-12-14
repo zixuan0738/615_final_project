@@ -4,7 +4,7 @@ My shinyApp can be found [here](https://bu-rstudio-connect.bu.edu/content/38)
 
 ####  GSPC.csv <- data used for stock ShinyApp
 ####  app.R <- Code for stock ShinyApp
-####  If you want to know how is my web works please click [here] to see a video explanation  
+####  YouTube Video <- If you want to know how is my web works please click [here](https://youtu.be/gkMuNaS7-vc) to see a video explanation  
 
 
 ###### Reference
