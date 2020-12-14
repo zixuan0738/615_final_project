@@ -8,7 +8,7 @@ My shinyApp can be found [here](https://bu-rstudio-connect.bu.edu/content/38)
 
 
 ###### Reference
-https://www.fa-mag.com/financial-advisor-magazine/issues/2020/06"   
+https://www.fa-mag.com/financial-advisor-magazine/issues/2020/06   
 https://savantwealth.com/savant-views-news/market-commentary/market-update-june-2020/   
 https://www.ullandinvestment.com/2020/06/   
 https://bluerocke.com/2020/06/  
